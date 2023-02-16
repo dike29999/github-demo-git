@@ -39,7 +39,7 @@
 // - Chứa rất nhiều source code
 // - Eg: Framework Angular, React -> cũng chứa trên git
 
-// ** Git chỉ quản lý source code thôi
+// ** Git chỉ quản lý source code thôi```
 // ** Github gắn thêm 1 số tính năng: xem source code, tạo request, quản lý, phân quyền
 // --> Github là trình mở rộng của git
 
@@ -51,3 +51,4 @@
 // git add & git commit -> thêm repo trong local
 // git push: đồng bộ repo từ local lên remote
 
+``
